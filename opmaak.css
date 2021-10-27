@@ -1,0 +1,102 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+    background-color: lightblue;
+}
+
+#wrapper{
+        width: 1020px;
+        height: 1200px;
+        padding: 20px;
+        margin: auto;
+        background-color: white;
+}
+
+#afbeelding_1{
+             width: 1000px;
+             height: 300px;
+             border: 10px;
+             border-color: black;
+             border-style: solid;
+             margin-bottom: 20px;
+}
+
+.topnav{
+       background-color: black;
+       overflow: hidden;
+}
+
+.topnav p{
+    	   background-color: green;
+         color: white;
+         text-align: center;
+         text-decoration: none;
+         font-size: 50px;
+         padding-left: 14px;
+         padding-right: 14px;
+         float: left;
+}
+
+.topnav a{
+         color: white;
+         text-align: center;
+         text-decoration: none;
+         font-size: 50px;
+         padding-left: 14px;
+         padding-right: 14px;
+         float: left;
+}
+
+.topnav a:hover{
+               background-color: white;
+               color: black;
+}
+
+p.active{
+                background-color: white;
+                color: black;
+}
+
+a.home{
+      background-color: green;
+      color: white;
+      text-align: center;
+      text-decoration: none;
+      padding-left: 0px;
+      padding-right: 0px;
+      font-size: 50px;
+      float: left;
+}
+
+#tekstvak{
+         width: 900px;
+         margin: auto;
+         font-size: 24px;
+}
+
+#aanhef{
+       width: 900px;
+       margin: auto;
+       margin-bottom: 20px;
+       margin-top: 25px;
+       font-size: 35px;
+       text-align: center;
+}
+
+header{
+      width: 900px;
+      margin:auto;
+      margin-top: 25px;
+      text-align: center;
+      font-size: 150px;
+
+}
+
+#youtube{
+        width: 560px;
+        height: 315px;
+        margin: auto;
+}
